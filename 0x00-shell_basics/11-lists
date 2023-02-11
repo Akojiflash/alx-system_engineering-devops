@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -alh --numeric-uid-gid . .. /boot | sed 's/K//'
+ls -al . .. /boot
