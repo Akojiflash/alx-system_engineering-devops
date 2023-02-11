@@ -1,3 +1,2 @@
 #!/bin/bash
 ls -alh --block-size='' --numeric-uid-gid
-
