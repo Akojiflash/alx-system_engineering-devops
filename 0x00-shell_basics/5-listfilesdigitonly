@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -alh --block-size='' --numeric-uid-gid
+ls -alh --numeric-uid-gid | sed 's/K//'
