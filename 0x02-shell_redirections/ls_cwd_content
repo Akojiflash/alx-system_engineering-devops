@@ -1,0 +1,14 @@
+total 18
+drwxr-xr-x 1 Destiny Joseph 197609  0 Feb 13 15:41 .
+drwxr-xr-x 1 Destiny Joseph 197609  0 Feb 13 08:15 ..
+-rwxr-xr-x 1 Destiny Joseph 197609 34 Feb 13 15:10 0-hello_world
+-rwxr-xr-x 1 Destiny Joseph 197609 31 Feb 13 15:34 1-confused_smiley
+-rwxr-xr-x 1 Destiny Joseph 197609 28 Feb 13 08:43 2-hellofile
+-rwxr-xr-x 1 Destiny Joseph 197609 41 Feb 13 15:34 3-twofiles
+-rwxr-xr-x 1 Destiny Joseph 197609 35 Feb 13 08:50 4-lastlines
+-rwxr-xr-x 1 Destiny Joseph 197609 35 Feb 13 08:53 5-firstlines
+-rwxr-xr-x 1 Destiny Joseph 197609 39 Feb 13 15:34 6-third_line
+-rwxr-xr-x 1 Destiny Joseph 197609 68 Feb 13 15:35 7-file
+-rwxr-xr-x 1 Destiny Joseph 197609 37 Feb 13 15:41 8-cwd_state
+-rw-r--r-- 1 Destiny Joseph 197609  0 Feb 13 15:41 ls_cwd_content
+-rw-r--r-- 1 Destiny Joseph 197609 41 Feb 13 08:55 README.md
