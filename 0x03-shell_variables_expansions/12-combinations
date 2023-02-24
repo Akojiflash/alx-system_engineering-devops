@@ -1,2 +1,3 @@
 #!/bin/bash
-echo $(echo {a..z}{a..z} | tr ' ' '\n' | grep -v oo) | sed 's/ /\n/g'
+echo {a..z}{a..z} | tr ' ' '\n' | grep -v oo | paste -sd '\n'
+
